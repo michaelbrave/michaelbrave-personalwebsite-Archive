@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Brave&#39;s Internet Home</title>
+    <link>https://michaelbrave.github.io/</link>
+    <description>Recent content on Mike Brave&#39;s Internet Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 21:51:34 -0700</lastBuildDate>
+    
+	<atom:link href="https://michaelbrave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Checking12</title>
+      <link>https://michaelbrave.github.io/posts/checking12/</link>
+      <pubDate>Sat, 23 May 2020 21:51:34 -0700</pubDate>
+      
+      <guid>https://michaelbrave.github.io/posts/checking12/</guid>
+      <description>testin testing 123 I just want to see how it looks</description>
+    </item>
+    
+  </channel>
+</rss>
