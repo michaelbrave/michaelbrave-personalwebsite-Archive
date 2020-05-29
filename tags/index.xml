@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mike Brave&#39;s Internet Home</title>
+    <title>Tags on Mike Brave</title>
     <link>https://michaelbrave.github.io/tags/</link>
-    <description>Recent content in Tags on Mike Brave&#39;s Internet Home</description>
+    <description>Recent content in Tags on Mike Brave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michaelbrave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flaws</title>
+      <link>https://michaelbrave.github.io/tags/flaws/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/tags/flaws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghibli</title>
+      <link>https://michaelbrave.github.io/tags/ghibli/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/tags/ghibli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miyazaki</title>
+      <link>https://michaelbrave.github.io/tags/miyazaki/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/tags/miyazaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open</title>
+      <link>https://michaelbrave.github.io/tags/open/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/tags/open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerable</title>
+      <link>https://michaelbrave.github.io/tags/vulnerable/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/tags/vulnerable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://michaelbrave.github.io/tags/work/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/tags/work/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Brave&#39;s Internet Home</title>
+    <title>Mike Brave</title>
     <link>https://michaelbrave.github.io/</link>
-    <description>Recent content on Mike Brave&#39;s Internet Home</description>
+    <description>Recent content on Mike Brave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2020 21:51:34 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michaelbrave.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Checking12</title>
-      <link>https://michaelbrave.github.io/posts/checking12/</link>
-      <pubDate>Sat, 23 May 2020 21:51:34 -0700</pubDate>
+      <title>Build in the open</title>
+      <link>https://michaelbrave.github.io/note/build-in-the-open/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelbrave.github.io/posts/checking12/</guid>
-      <description>testin testing 123 I just want to see how it looks</description>
+      <guid>https://michaelbrave.github.io/note/build-in-the-open/</guid>
+      <description>Why have my notes be public? This is in large part due to two different ideas.
+The first is that building in the open aka building with the garage door open allows for better feedback loops with other people. People can tell me where/how I&amp;rsquo;m wrong, maybe my wisdom/failing can help someone else, those who are curious about me can know what I&amp;rsquo;m thinking and instead of having something private I can instead be building a kind of resource that could create a kind of creation momentum.</description>
+    </item>
+    
+    <item>
+      <title>Heroes Being Human</title>
+      <link>https://michaelbrave.github.io/post/heroes-being-human/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/post/heroes-being-human/</guid>
+      <description>Yesterday I was fortunate to find PBS - The Making of Ponyo and it was insightful into the of someone I&amp;rsquo;ve alway looked up to profesionally, Hayao Miyazaki.
+I think the best parts weren&amp;rsquo;t the parts they cared about, they were mostly trying to capture his process (which if I&amp;rsquo;m being honest is very similar to video game concept art processes), but what was even better was watching him procrastinate, and search for inspiration and dealing with his own internal doubts.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://michaelbrave.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/about/</guid>
+      <description>I&amp;rsquo;m what happens when you take an artist, turn them into a designer and then later a developer.
+My lifelong mission (other than finding the perfect lemonaide) is to use technology to make art faster, because when we make things faster we iterate and improve them faster. I want to make awesome stuff, so making things quickly and using technology to do so is the philosohpy that rules the day. This explains my interests in Neural Networks (especially being used to create things), it&amp;rsquo;s why I love things like procedural generation, and It&amp;rsquo;s why I get excited about game engines being used in ways other than for making video games.</description>
     </item>
     
   </channel>
