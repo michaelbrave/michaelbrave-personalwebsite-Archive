@@ -140,10 +140,192 @@
 
 <a href="https://michaelbrave.github.io/tags/srpg"><kbd class="item-tag">SRPG</kbd></a>
 
+<a href="https://michaelbrave.github.io/tags/rts"><kbd class="item-tag">RTS</kbd></a>
+
+<a href="https://michaelbrave.github.io/tags/game-mechanics"><kbd class="item-tag">Game Mechanics</kbd></a>
+
 
     </div>
 
     <div align="start" class="content"><p>I want to explore the mechanics of Ogre Battle because I want to clone a lot of it&rsquo;s features into a game I&rsquo;m working on. Not a direct clone but heavily inspired by almost like using this game as a template or a foundation.</p>
+<h1 id="ogre-battle">Ogre Battle</h1>
+<p>Released on the SNES in 1993 and later for the PSX in 1997, this game named after not one but two Queen songs is one of my favorite games. Released by Quest and published by Enix and made by the legendary game designer Yasumi Matsuno (famous for most Tactical RPG’s, Vagrant Story and Final Fantasy 12) I consider it a timeless classic.</p>
+<p>Ogre Battle is a Strategy game that mixes movement elements of a real time strategy game(wikipedia calls it a real time tactical rpg) with the character development and combat of a RPG, often called an SRPG, though the term SRPG originally stood for Simulation Role Playing Game. There is some debate as to whether it means strategic or simulation though the results are much the same, this usually overlaps strongly with Tactical RPGs. SRPGs developed in Japan almost parallel with RTS development in the west. Good examples of the genre would be Shining Force, Advance Wars, and other games that would normally be described under the tactical genre like Final Fantasy Tactics or Tactics Ogre, fire emblem, x-com or divinity original sin.</p>
+<p>Ogre battle is a little different than most SRPGs or Tactical RPGs as the units/parties don’t move on a grid, and it’s real time rather than turn based and you don’t control your units attacks. In many ways it’s an SRPG that is bordering on being an RTS. It differs from an RTS by not having any buildings created and not spawning new troops (though you could recruit them in towns). Also by having teams/parties instead of just units on the map it changed the mechanic. As far as I know there has never been another game like this one, and it’s a personal favorite of mine.</p>
+<p>This document is to help me break down and understand the various mechanics of the game to be able to reference later. I do this because I would like to copy many/most of these mechanics in a game I’m working on.</p>
+<h2 id="opening-scene">Opening Scene</h2>
+<p>When we first start we are asked questions based on a tarot reading. Our answers to these questions will determine our main characters alignment(See character below) and thus his/her attack ability. I don’t know if I like this or not because it seems like a system to game to get results rather than what it was meant to be, a way to customize based on your response. “Pokemon Mystery Dungeon” has a similar mechanic but at least they let you have a choice if the results were not to your liking.</p>
+<h2 id="level-select-world-map">Level Select World Map</h2>
+<p>The second screen we see is the overworld map, a kind of level select. This is a story driven game so it’s mostly linear with some moments where you can choose which of the available missions you would like to do. Where this really shines is in the ability to revisit previously beaten levels. The core reason for wanting to do so being to unlock characters/items or to get/complete quests.</p>
+<p>Sidenote: I really like the art style using an old fashioned map aesthetic.</p>
+<h2 id="level-map">Level Map</h2>
+<p>This is the core of the game, while inside the levels you deploy units and the enemy team deploys units. You can liberate towns which pay a daily tribute and the enemy team can retake them if undefended. When an enemy unit is close enough to your unit they battle.</p>
+<h3 id="deployment-of-units">Deployment of units</h3>
+<p>Inside the map there is a finite number of groups that can be deployed per stage, this is true for both the player and the enemy teams. This can be used advantageously by killing the leaders of groups so that they are defeated but still fill a slot while retreating.</p>
+<p>Deploying units cost money, the cost is determined by unit composition of a party. Example: a samurai would cost 700 a fighter would cost 100. There is also an upkeep cost nightly for all the teams that are deployed.</p>
+<h3 id="terrain-and-movement">Terrain and Movement</h3>
+<p>The battle terrain of a battle is based on troop movements. It will be the terrain of the motionless unit that is met or if both groups are moving it’s a compromise of the space between the two. This will give attack and defending bonuses to those units that have a type (especially true for octopuses which are great in the water and not great on land). Standing in town heals you, but I want to say that fighting battles in town can damage your reputation (if it doesn’t it should).</p>
+<p>The terrain types are: Shoals, Ocean, Reefs, Plains, Snowfield, Forest, Snowy Forest, Barren Land, Marsh, Mountain, Snowy Mt. (sm), Snowy Mt. (L), Volcano, Cliff, Desert, Road, Snowy Road, Sky, Castle Walls, Castle/Headquarters, and insideTown. The terrain can affect how well a party battles.</p>
+<p>The unit movement types are: High Sky, Low Sky, Plains, Forest, Mountain, Snowfield, Marsh, Shoals and Ocean. These will affect not only the speed of movement of a unit but also its strength of attack while in that terrain.</p>
+<h3 id="fights">Fights</h3>
+<p>(See Combat Section Below)</p>
+<p>If a unit wins a battle it remains unmoved on the map, but the unit that lost the fight (if still alive) will be pushed back. If a unit has lost its leader the icon for the party changes into a skull and crossbones and the party is no longer controlled but begins to make its way back to its home base. If a unit that provided a movement type like flying is killed then the party will no longer have that movement type.</p>
+<h3 id="reputation">Reputation</h3>
+<p>Reputation/Team Alignment is how the world sees your army as a whole. This will unlock certain scenarios (some characters can only be unlocked with the right reputation low or high). This will be affected by story events/choices, the alignment of the teams liberating towns and minimally by tarot card draws. When an enemy retakes a town your reputation decreases. Drawn out battles (milking tribute) will decrease reputation. Reputation affects the amount of tribute given by liberated towns, a higher reputation will prompt the towns to pay a higher amount.</p>
+<h3 id="townstemples">Towns/Temples</h3>
+<p>Towns and temples can both be liberated, both allow the option to draw a tarot card. Towns that have been liberated pay tribute every day at noon. Some towns allow for the recruiting of units, some towns have shops. When liberating a town your reputation will be affected by the ALI of the team liberating this is modified by the town morale the higher the morale the more reputation can be gained by liberating the city.</p>
+<p>Temples don’t pay tribute but they do allow you to resurrect your fallen units.</p>
+<h3 id="random-battles">Random Battles</h3>
+<p>Sometimes there are random battles encountered on the map, these are monsters and can often be recruited.</p>
+<h3 id="hidden-things--cities">Hidden Things &amp; Cities</h3>
+<p>There are hidden items, hidden cities and hidden temples all over the place. The thing is though that hidden cities don’t affect your alignment when liberated.</p>
+<h3 id="boss-fights">Boss Fights</h3>
+<p>Every map has a boss, these are always story moments. Some of the bosses join your team later if you make the right choices.</p>
+<h3 id="real-time-clock-with-day-and-night-cycles">Real time clock with day and night cycles</h3>
+<p>There is a day and night cycle that affects things ranging from when you pay your deployed unit costs, to gathering tribute at noon everyday. The day and night cycle also affect how well units fight based on alignment and class. High alignment(good) will fight well during the day, low alignment(evil) will fight better at night, neutral units will fight better at twilight and daybreak. Some units change shape based on the day cycle as well, Example: Vampires during the day are stuck in a coffin.</p>
+<p>Sidenote: I do not like the pseudo 3D warping look of these maps (See also: the World Map in Terranigma), this is mostly due to technical limitations of the SNES. But also just having the flat 2D would have looked better is my personal opinion.</p>
+<h2 id="combat">Combat</h2>
+<p>Combat takes place in a scene change away from the level map in much the style of most older turn based JRPGs.</p>
+<h3 id="win-conditions">Win Conditions</h3>
+<p>The most common win condition is which team did the most damage, but also if all units are killed. Although not a win condition killing a leader can also achieve desired results as then they will retreat. The team that loses but is still alive will be pushed back, the winner will maintain their position. A draw will push both units back. Healing doesn’t seem to factor into win/lose conditions. In the sky islands level if a non flying unit is pushed off the edge it will kill them.</p>
+<h3 id="turn-based-combat">Turn Based Combat</h3>
+<p>some units have multiple turns during a round. Units have two moves, one for the front row and one for the back row, they use the appropriate move based on their positioning in the party composition. Turn order is determined by the AGI and LUK stats while also factoring in things like terrain, it’s also slightly random. Units like wizards or ninjas determine what would be the most effective attack to use based on the team goals. Some units like princesses give other units an additional turn when the designated leader.</p>
+<h3 id="auto-combat--ai">Auto Combat &amp; AI</h3>
+<p>It’s an Auto combat situation, what you can control is which AI focus your team will have and if you choose to use Tarot Card attacks to supplement.</p>
+<p>Team commands let you set the focus of your party&rsquo;s attacks, basically how the AI will act. There are four options.</p>
+<pre><code>Best - they are optimized for outputting the most damage, playing to their strengths. 
+
+Strong - attack the strongest (most hp) units. 
+
+Leader - focus on killing the leader
+
+Weak - eliminate the weakest units first
+</code></pre>
+<h3 id="tarot-cards">Tarot Cards</h3>
+<p>Tarot Card damage does not factor into the win condition of damage done. Tarot cards factor in the stats of the faction leader and the time of day to determine effectiveness/power. If a unit is killed by a Tarot the XP goes to the faction leader.</p>
+<h3 id="terrain-bonuses">Terrain Bonuses</h3>
+<p>Terrain will affect damage taken and dealt. Example: Ocean units don’t fight well on land, while a mountain unit would do well in the mountains.</p>
+<h3 id="damage-output">Damage Output</h3>
+<p>Attack damage is a formula that consists of stats(including gear), terrain bonus, alliance/time of day, buff/debuff and a random number. Receiving damage is much the same but with resistances. Things hitting or missing factors in the stats of both the attacker and the receiver, having a higher stat increases the odds of winning, it compares the two numbers and uses a hit table to factor in the success.</p>
+<h3 id="status-effects">Status Effects</h3>
+<p>Status effects like sleep and paralysis make a unit unable to attack until attacked first. There is a chance to recover that is based on STR and LUK and factors in the time of day and a random number. Stronger units will recover faster, but magic using units are less likely to have succumbed to the status effect in the first place.</p>
+<h2 id="party-composition">Party Composition</h2>
+<h3 id="unit-size">Unit Size</h3>
+<p>Units have different sizes and affect how many units can be part of a team. The standard unit is a humanoid size, and a complete team built with these would have 5 units. You can replace two small units for a large one (like a dragon) making a 4 unit team, which is a decent mix. Other teams have two large units and one small one. I never felt like those were very good for damage output. The 5 unit team is the most expensive and the least flexible for formation swapping while deployed, but outputs the most damage.</p>
+<h3 id="front-and-back-row-positions">Front and Back Row Positions</h3>
+<p>Positioning Determines Moves used in combat. There is a front row and a back row when building a party. Each unit type has two potential attacks; a front row attack and a back row attack. A good example would be the Samurai unit, in the front row it gets three attacks, in the back row it does a ranged high output damage but at the cost of some HP attack. Choosing the party composition of which classes to use and in which row to put them is a big part of the strategic choices made in this game. Usually a good strategy for this is to set it up a bit like an MMO party, tanks in the front, damage and healers in the back. This is partially due to how the stats affect resistances and how different abilities come through based on what row they are on. Example: a wizard wouldn’t be very useful on the front lines since they would be damaged by physical attacks easily and wouldn’t output very much damage using their front row ability.</p>
+<h3 id="terrain-movement">Terrain Movement</h3>
+<p>Terrain movement of the party is based on the movement type of the units. There is a hierarchy of which unit’s movement type becomes the dominant party movement. I haven’t figured it out completely but it seems like the order is based on the size of the unti, so whichever is the biggest seems to dominate the movement speed of the party.</p>
+<h3 id="cost">Cost</h3>
+<p>Cost of Deployment is partially based on group size, sometimes it’s good to make small groups because they can be affordable.</p>
+<h3 id="affinities-and-compatibility">Affinities and Compatibility</h3>
+<p>Some units serve under certain units better. certain classes’ leadership will give certain other classes a stat bonus or penalty depending on compatibility. You can see the stat changes when you change leaders but I would make this more transparent or apparent, maybe with color coding the ups with green and the downs in red, or even have a warning that shows that there is an incompatibility with the team. Leaders with superior stats will give bonuses anyway despite incompatibility, low stats will cause penalties, some units can cause stat specific bonuses and penalties. Leaders also get a small stat boost for the sake of being a leader. In the SNES version the leader would give/subtract 1 point to a stat for every 10 points of difference.</p>
+<h2 id="class-system">Class System</h2>
+<p>There is a class tree system much like other JRPGs or prestige classes in Dungeons and Dragons. The classes are core to what abilities are available, what stats are gained and what strategy a team can have.</p>
+<h3 id="leadership">Leadership</h3>
+<p>Only specific classes (usually the more upgraded ones) can be leaders of a team. Example: A fighter cannot be a leader but a knight could.</p>
+<h3 id="unlocking-classes">Unlocking Classes</h3>
+<p>To unlock a class the unit must be of the right gender/species, meet the required level and be within the appropriate range of certain statistics (Usually Ali, and Cha).</p>
+<p>Some classes can only be unlocked with specific items. Most of the time it’s more beneficial to raise a unit from scratch due to stat increases but there are exceptions (like recruiting a platinum dragon). ALI and CHA of the party leader can affect how effective recruiting efforts are.</p>
+<h3 id="effects-of-class-changes">Effects of Class Changes</h3>
+<p>Units improve their stats in certain ways depending on which class they are.</p>
+<p>Many of the class upgrades have stat increases but more useful is that some gain AOE abilities or multiple attacks. Some of the design choices for the trees don’t make sense though. Example: Dragon Master uses INT as a back row attack but it’s too fragile to put in the front row, almost all stat bonuses to get it to that point would have increased its strength, many of the class upgrades have perplexing choices like this.</p>
+<p>It should also be noted that due to the class balances some units are used more than others to kill (like wizards) which means that most wizards will struggle to have/keep certain stats like ALI. A lot of players will grind certain stats to unlock classes as well, and I don’t feel like that’s a particularly good use of time.</p>
+<h3 id="a-non-exhaustive-list-of-classes">A Non Exhaustive List of Classes:</h3>
+<p><strong>Fighter - Base Unit</strong></p>
+<p>Knight (Fighter Lv. 5+ CHA 50+ ALI 50+)</p>
+<pre><code>Paladin (Knight Lv. 15+ CHA 60+ ALI 70+)
+
+Vampyre/Coffin (Knight Item: Blood Kiss)
+</code></pre>
+<p>Wild Man (Fighter Lv. 6+ CHA 50+ ALI 0-49)</p>
+<pre><code>Evil One (Wild Man Lv. 16+ CHA 60+ ALI 0-30)
+</code></pre>
+<p>Beast Man (Fighter Lv. 5+ CHA 50+ ALI 25-65)</p>
+<pre><code>Beast Master (Beast Man Lv. 12+ CHA 60+ ALI 10-50)
+
+Dragoner (Beast Master Item: Dragos)
+
+Dragon Master (Dragoner Lv. 20+ CHA 65+ ALI 40-60)
+</code></pre>
+<p>Doll Mage (Fighter Lv. 5+ CHA 50+ ALI 30-70)</p>
+<pre><code>Doll Master (Doll Mage Lv. 14+ CHA 60+ ALI 50-80)
+</code></pre>
+<p>Ninja (Fighter Lv. 6+ ALI 0-49)</p>
+<pre><code>Ninja Master (Ninja Lv. 15+ CHA 60+ ALI 0-30)
+</code></pre>
+<p>Wizard (Fighter Lv. 4+ CHA 50+ ALI 10-60)</p>
+<pre><code>Mage (Wizard Lv. 10+ CHA 60+ ALI 10-35)
+
+  Sorcerer (Mage + Item: Undead Staff)
+
+    Lich (Sorcerer + Item: Undead Ring)
+</code></pre>
+<p>Samurai (Fighter Lv. 7+ CHA 50+ ALI 50+)</p>
+<pre><code>Samurai Master (Samurai Lv. 15+ CHA 60+ ALI 70+)
+</code></pre>
+<p>WereWolf (Fighter Item: Virus)</p>
+<p>Tiger Man (Item: Full Moon Stone)</p>
+<p><strong>Amazon - Base Unit</strong></p>
+<p>Valkyrie (Amazon Lv. 5+ CHA 50+ ALI 35+)</p>
+<pre><code>Muse (Valkyrie Lv. 15+ CHA 60+ ALI 70+)
+</code></pre>
+<p>Witch (Amazon Lv. 5+ CHA 50+ ALI 0-65)</p>
+<p>Cleric (Amazon Lv. 4+ CHA 50+ ALI 50+)</p>
+<pre><code>Shaman (Cleric Lv. 10+ CHA 65+ ALI 65+)
+
+  Monk (Shaman Lv. 18+ CHA 73+ ALI 73+)
+</code></pre>
+<p>Princess (Amazon Item: Royal Crown)</p>
+<p>Note: Monsters and creatures have class upgrades too but usually their class tree is small and this list is more to understand mechanics than to be exhaustive.</p>
+<p>Sidenote: I don’t agree with treating gender as a separate branch of classes, at most only one or two special units, not an entirely different tree. I also think the monsters, especially the humanoid ones should have had deeper trees since most only go one level deep on the tree.</p>
+<h2 id="unit-stats">Unit stats</h2>
+<p>Each unit starts with random stats influenced by level and within a range. Stat bonuses on level up are also within a range. So building up a unit from a low level will usually have higher stats than a higher level recruited. Which stats are gained are based on what class they are while leveling up.</p>
+<h3 id="hp---health">HP - Health</h3>
+<p>if it drops below 0 the unit dies.</p>
+<h3 id="str---strength">STR - Strength</h3>
+<p>Hit harder with physical attacks and take physical hits better.</p>
+<h3 id="int---intelligence">INT - Intelligence</h3>
+<p>Hit harder with magic attacks and take less damage from magic attacks. It also affects how often magic imisses,</p>
+<h3 id="agi---agility">AGI - Agility</h3>
+<p>Hit percentage, dodge percentage and attack order</p>
+<h3 id="ali---alignment">ALI - Alignment</h3>
+<p>between 0-100. 0-30 is evil, 70-100 is good. Affects potential class options, and affects combat during the day and night cycle. Good will fight better during the day, evil will fight better at night, neutrals will fight better during twilight. ALI also affects if reputation rises or falls on city liberation. This is raised or lowered by the ALI and class of units you fight, what levels your opponents are (underdogs are good, those that crush their enemies evil) and tarot card draws.</p>
+<h3 id="cha---charisma">CHA - Charisma</h3>
+<p>Represents leadership potential. Affects what classes can be unlocked. CHA is grown similarly to ALI in that killing units with lower or higher of that stat (usually certain types of units) and based on level differences will raise or lower it.  Rumors say that charisma affects party stat growth too, if that isn’t true it might be worth implementing. Usually CHA grows with ALI, so usually the “good” units have greater leadership potential than the evil ones. CHA also determines the possibility of recruiting neutral units. CHA can be lost by running away from a battle. There is some speculation that better team dynamics would help CHA rise and would help ALI grow faster, but I can’t confirm this.</p>
+<h3 id="luk---luck">LUK - Luck</h3>
+<p>Luckier units will occasionally be given items when they liberate temples. It’s rumored that luck influences the chance of finding items when wiping out units. It’s also rumored that luck influences evade.</p>
+<p>Some of the best ways to raise stats (especially luck) is using stat boosting potions bought using the MERCHANT item.</p>
+<h3 id="type---terrain-movement">Type - Terrain Movement</h3>
+<p>what terrain movement it has, it also shows what size it is in parentheses which shows what priority it might take in a party.</p>
+<h3 id="resistances---elemental-resistance">Resistances - Elemental Resistance</h3>
+<p>Resistance is a hidden attribute based on class. There are 6 types of resistance. Physical, White, Black, Cold, Fire, and Lightening.</p>
+<h3 id="attacks---front-row-and-back-row">Attacks - Front Row and Back Row</h3>
+<p>These are the moves that the unit has available based on class that depends on their position in the party front row or back row.</p>
+<h3 id="cost---deployment-price">Cost - Deployment price</h3>
+<p>This is dependent on class, and I want to say level but I’m not sure.</p>
+<p>Sidenote: I don’t dislike the Alignment and Charisma stats but I would make it more transparent as to how to grow them, separate them from each other a little more than the current system.</p>
+<h2 id="specialstory-characters">Special/Story Characters</h2>
+<p>There are more than 17 unlockable story characters. Some have classes and abilities that are otherwise not found in game (like the General Class). For the best ending most of these characters are required to be unlocked. Most of these characters were opponents but through visiting the right places and making the right choices you can convince them to join you.</p>
+<h2 id="multiple-endings">Multiple Endings</h2>
+<p>There are 13 potential endings based on choices, reputation and items gathered.</p>
+<p>Which ending you get is determined a lot by the reputation of the group, the ALI and CHA of the party leader, which characters were recruited and what choices were made during the story. Items like the mystical treasures and the zodiac stones(all acquired after several quests) affect this as well.</p>
+<h2 id="my-personal-notes">My Personal Notes:</h2>
+<p>I wish the AI in how the enemy troops moved inside the level was smarter, it’s rare for them to try to trick you or sneak past you, so it usually ends up you build a wall of troops and theirs crash into yours.</p>
+<p>I also want some basic movement AI for my own units, ability to patrol like in warcraft 3 or have the unit scout like in Civilization 5.</p>
+<p>I want a pvp mode.</p>
+<p>I also wish there was more of a quick battle mode separate from the story mode. These levels can be quite long. Maybe throw away maps, maybe those could those be procedurally generated?</p>
+<p>A persistent world mode could be interesting too, send units to locations, check out and check back in later. This is less likely but worth exploring I think.</p>
+<p>There could be abilities used on the map to attack first before bumping into the enemy.  Maybe rain arrows at them, or cast a ranged spell, have a melee charge. As a tradeoff, you get the surprise attack but your units have less energy and would tire out quicker. I kind of want there to be surprise, sneak and from behind attacks, maybe something similar to how paper mario initiates battles.</p>
+<p>Spies like in populous the beginning that could sneak in and burn buildings down, or stealth units like in warcraft 3 that could sneak past without proper countermeasures.</p>
+<p>I also wouldn’t mind if there were multiple movement layers, some that could go underground, fly through the air, or go underwater and thus bypass other units. (Warcraft 2 is a good example). In its current state the flying units are already overpowered just from their movement advantage. I think this should also be countered by archer units being able to counter them by having flying units be weak to that. So it would implement not only different levels of movement but also units to counter them and weaknesses to balance.</p>
+<p>I would also like to be able to lay ambushes/traps, hide in forests/caves, siege and fortify towns, build forts and barricades. Maybe hide units (like in League of Legends).</p>
+<p>Since the battles aren’t really controlled they should be faster. Perhaps this is why Advance Wars has a battle system like it does.</p>
+<p>I want less randomness, item drops are infrequent, tarot cards aren’t a system I enjoy, and sometimes I lose a battle completely due to misses instead of strategy. I don’t want to remove randomness but I want to minimize it more.</p>
+<p>I want the stats other than alignment to help open up classes as well. It doesn’t make much sense just basing it off of charisma and alignment. Speaking of, I want different ways to influence those stats other than mostly killing units.</p>
+<p>I never felt like the larger characters were worth giving up the extra character slot, I think they should be improved to compensate, an extra attack, extra health, something.</p>
+<p>I wonder if some bit of team based leveling might be good, getting the killing blow isn’t a mechanic I’m super passionate about (see heroes of the storm as opposed to League of Legends). Also it’s hard to get alignment just right when it’s based on killing blows and you aren’t actually controlling them.</p>
+<p>There should be more incentive to take and hold territory than just income. I want more incentives, resources or defences, maybe interrupt supply lines?</p>
 </div>
 
     
