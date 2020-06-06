@@ -6,10 +6,20 @@
     <description>Recent content in Notes on Mike Brave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michaelbrave.github.io/note/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awe, Wonder &amp; Pleasant Surprises</title>
+      <link>https://michaelbrave.github.io/note/awe-wonder-surprises/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/note/awe-wonder-surprises/</guid>
+      <description>Cultivating curiosity and wonder are what allow me to be productive, to get things done and to keep procrastination at bay, I find that they are also core emotions to my functioning well as a person and key my own happiness or contentment.
+I believe that the distillation of it is feedback and enjoying that feedback. Look at a baby splashing water, they are surprised by how their actions caused a reaction, they are surprised and often delighted by that direct feedback.</description>
+    </item>
     
     <item>
       <title>A Theory Of Happiness</title>
@@ -39,19 +49,6 @@ Creating sandboxes to play in, the Wisdom of Teagan
 Humility is a Willingness To Learn, an Openness
 On Gratitude, The Seed of Happiness
 We never achieve things ourselves, we are just a piece of that achievement, your parents raised you, your friends supported you, your society shaped you, you are the core piece, but only a piece, respect and give credit, let them share your accomplishments and achievements because it is theirs too.</description>
-    </item>
-    
-    <item>
-      <title>Awe, Wonder &amp; Pleasant Surprises</title>
-      <link>https://michaelbrave.github.io/note/awe-wonder-surprises/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://michaelbrave.github.io/note/awe-wonder-surprises/</guid>
-      <description>Embracing and Encouraging Surprise and wonder in our lives
-What is Delight?
-Find Joy in the unexpected
-“Oh that’s interesting”
-“I never would have thought of that”</description>
     </item>
     
     <item>
@@ -208,6 +205,25 @@ There is no reason it can’t be fun
 Life Is Resource Management (see boxing)
 Really Living vs Being Responsible
 A good story doesn’t start with “so I followed the rules and was truly safe”</description>
+    </item>
+    
+    <item>
+      <title>If It&#39;s Worth Doing Well, It&#39;s Worth Doing Poorly</title>
+      <link>https://michaelbrave.github.io/note/do-it-poorly/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/note/do-it-poorly/</guid>
+      <description>I once heard a saying that if &amp;ldquo;something is worth doing well, then it&amp;rsquo;s worth doing poorly&amp;rdquo; in this particular case it was in reference to keeping a diet and was along the lines of &amp;ldquo;done is better than perfect&amp;rdquo; or &amp;ldquo;better something than nothing&amp;rdquo;. So keeping with the diet example, every time I&amp;rsquo;ve failed at keeping a diet it&amp;rsquo;s been something along the lines of quitting because &amp;ldquo;I already messed up yesterday&amp;rdquo;, while the times I&amp;rsquo;ve been able to keep a diet were the times I was allowed to make mistakes, or when I had already factored in something like a cheat day.</description>
+    </item>
+    
+    <item>
+      <title>Build in the open</title>
+      <link>https://michaelbrave.github.io/note/build-in-the-open/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/note/build-in-the-open/</guid>
+      <description>Why have my notes be public? This is in large part due to two different ideas.
+The first is that building in the open aka building with the garage door open allows for better feedback loops with other people. People can tell me where/how I&amp;rsquo;m wrong, maybe my wisdom/failing can help someone else, those who are curious about me can know what I&amp;rsquo;m thinking and instead of having something private I can instead be building a kind of resource that could create a kind of creation momentum.</description>
     </item>
     
   </channel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>King of Dragon Pass on Mike Brave</title>
+    <link>https://michaelbrave.github.io/tags/king-of-dragon-pass/</link>
+    <description>Recent content in King of Dragon Pass on Mike Brave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michaelbrave.github.io/tags/king-of-dragon-pass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>King of Dragon Pass - Game Mechanics Study</title>
+      <link>https://michaelbrave.github.io/king-of-dragon-pass/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/king-of-dragon-pass/</guid>
+      <description>Released in 1999, this is one of those games that some people say nothing like it has come out since.
+Turn based strategy and role playing game. it&amp;rsquo;s like a primitive city builder, kinda.
+backstory choices to create a culture for your team
+appointing leaders and advisors the hints they give based on how skilled they are
+Personal Thoughts: I expected more combat and less city planning choices.
+The focus on the gods and the mythology is interesting, I should incorporate something like that into my game.</description>
+    </item>
+    
+  </channel>
+</rss>

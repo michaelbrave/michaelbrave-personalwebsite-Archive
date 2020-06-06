@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>King of Dragon Pass - Game Mechanics Study</title>
+      <link>https://michaelbrave.github.io/king-of-dragon-pass/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/king-of-dragon-pass/</guid>
+      <description>Released in 1999, this is one of those games that some people say nothing like it has come out since.
+Turn based strategy and role playing game. it&amp;rsquo;s like a primitive city builder, kinda.
+backstory choices to create a culture for your team
+appointing leaders and advisors the hints they give based on how skilled they are
+Personal Thoughts: I expected more combat and less city planning choices.
+The focus on the gods and the mythology is interesting, I should incorporate something like that into my game.</description>
+    </item>
+    
+    <item>
       <title>Ogre Battle - Game Mechanics Study</title>
       <link>https://michaelbrave.github.io/post/ogre-battle/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
@@ -19,6 +33,16 @@
       <guid>https://michaelbrave.github.io/post/ogre-battle/</guid>
       <description>I want to explore the mechanics of Ogre Battle because I want to clone a lot of it&amp;rsquo;s features into a game I&amp;rsquo;m working on. Not a direct clone but heavily inspired by almost like using this game as a template or a foundation.
 Ogre Battle Released on the SNES in 1993 and later for the PSX in 1997, this game named after not one but two Queen songs is one of my favorite games.</description>
+    </item>
+    
+    <item>
+      <title>Ultima 1 - Game Mechanics Study</title>
+      <link>https://michaelbrave.github.io/post/ultima-1/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/post/ultima-1/</guid>
+      <description>One of the most classic computer RPGs made in 1981, I hope to learn a lot as I study the mechanics of this series. Most of this is from watching let&amp;rsquo;s play videos and reading up on the game mostly due to my own frustrations with the UI.
+Stats core to the character is it&amp;rsquo;s class and it&amp;rsquo;s stats. I&amp;rsquo;m not even sure if what class you choose does much more than to buff certain stats.</description>
     </item>
     
   </channel>
