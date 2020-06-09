@@ -3,22 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://michaelbrave.github.io/note/big-picture-thinking/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/note/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/tags/seeing-what-is-true/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/tags/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/tags/done/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/drafts/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/drafts/micro-posts/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/tags/productivity/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/tags/writing/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michaelbrave.github.io/note/awe-wonder-surprises/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelbrave.github.io/tags/happiness/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/note/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/tags/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +74,6 @@
   
   <url>
     <loc>https://michaelbrave.github.io/note/practical-is-seeing/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/note/big-picture-thinking/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +98,22 @@
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/knowledge/</loc>
+    <loc>https://michaelbrave.github.io/tags/ideas/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/drafts/ideas-that-changed-my-life/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/drafts/knowledge/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelbrave.github.io/tags/life/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,22 +128,12 @@
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michaelbrave.github.io/note/nothing-exists-in-a-vacuum/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michaelbrave.github.io/note/pain-vs-happiness/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/tags/seeing-what-is-true/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +223,7 @@
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/king-of-dragon-pass/</loc>
+    <loc>https://michaelbrave.github.io/drafts/king-of-dragon-pass/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,8 +293,7 @@
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/prophets-song-gamedoc/</loc>
-    <priority>0</priority>
+    <loc>https://michaelbrave.github.io/drafts/prophets-song-gamedoc/</loc>
   </url>
   
   <url>
@@ -262,7 +301,7 @@
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/books-to-read/</loc>
+    <loc>https://michaelbrave.github.io/drafts/books-to-read/</loc>
   </url>
   
   <url>
@@ -270,15 +309,15 @@
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/community-collab/</loc>
+    <loc>https://michaelbrave.github.io/drafts/community-collab/</loc>
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/gamelist/</loc>
+    <loc>https://michaelbrave.github.io/drafts/gamelist/</loc>
   </url>
   
   <url>
-    <loc>https://michaelbrave.github.io/game-branding/</loc>
+    <loc>https://michaelbrave.github.io/drafts/game-branding/</loc>
   </url>
   
   <url>
