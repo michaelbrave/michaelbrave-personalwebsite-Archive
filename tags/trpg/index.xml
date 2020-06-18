@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRPG on Mike Brave</title>
+    <link>https://michaelbrave.github.io/tags/trpg/</link>
+    <description>Recent content in TRPG on Mike Brave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michaelbrave.github.io/tags/trpg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tactics Ogre, Let Us Cling Together - Game Mechanics Study</title>
+      <link>https://michaelbrave.github.io/drafts/tactics-ogre/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/drafts/tactics-ogre/</guid>
+      <description>Playstation Version or PSP Remaster?</description>
+    </item>
+    
+  </channel>
+</rss>

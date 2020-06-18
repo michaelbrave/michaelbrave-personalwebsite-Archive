@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auto Chess on Mike Brave</title>
+    <link>https://michaelbrave.github.io/tags/auto-chess/</link>
+    <description>Recent content in Auto Chess on Mike Brave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michaelbrave.github.io/tags/auto-chess/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auto Chess - Game Mechanics Study</title>
+      <link>https://michaelbrave.github.io/drafts/auto-chess/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelbrave.github.io/drafts/auto-chess/</guid>
+      <description>Inspired by Majong? Also Card Games
+Tempo, synergies
+Personal Thoughts: could you combine them like in Yugi-oh for playstation?
+See Also Dota Underlords Teamfight Tactics Hearthstone autoplayer? Forgot the name</description>
+    </item>
+    
+  </channel>
+</rss>
