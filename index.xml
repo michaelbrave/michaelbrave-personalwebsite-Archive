@@ -6,11 +6,8 @@
     <description>Recent content on Mike Brave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://michaelbrave.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelbrave.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best in What Way, For Who, When?</title>
       <link>https://michaelbrave.github.io/drafts/notes/best/</link>
@@ -272,7 +269,7 @@ See Also Dota Underlords Teamfight Tactics Hearthstone autoplayer? Forgot the na
     </item>
     
     <item>
-      <title>Build in the open</title>
+      <title>Build In The Open</title>
       <link>https://michaelbrave.github.io/note/build-in-the-open/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
@@ -297,10 +294,10 @@ The focus on the gods and the mythology is interesting, I should incorporate som
     
     <item>
       <title>Ogre Battle - Game Mechanics Study</title>
-      <link>https://michaelbrave.github.io/post/ogre-battle/</link>
+      <link>https://michaelbrave.github.io/blog/ogre-battle/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelbrave.github.io/post/ogre-battle/</guid>
+      <guid>https://michaelbrave.github.io/blog/ogre-battle/</guid>
       <description>I want to explore the mechanics of Ogre Battle because I want to clone a lot of it&amp;rsquo;s features into a game I&amp;rsquo;m working on. Not a direct clone but heavily inspired by it to the point of almost using it as a template.
 Ogre Battle Released on the SNES in 1993 and later for the PSX in 1997, this game named after not one but two Queen songs is one of my favorite games.</description>
     </item>
@@ -338,10 +335,10 @@ I think the best parts weren&amp;rsquo;t the parts they focused on, they were mo
     
     <item>
       <title>Ultima 1 - Game Mechanics Study</title>
-      <link>https://michaelbrave.github.io/post/ultima-1/</link>
+      <link>https://michaelbrave.github.io/blog/ultima-1/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelbrave.github.io/post/ultima-1/</guid>
+      <guid>https://michaelbrave.github.io/blog/ultima-1/</guid>
       <description>One of the most classic computer RPGs made in 1981, I hope to learn a lot as I study the mechanics of this series. Most of this is from watching let&amp;rsquo;s play videos and reading up on the game mostly due to my own frustrations with the UI.
 Stats core to the character is it&amp;rsquo;s class and it&amp;rsquo;s stats. I&amp;rsquo;m not even sure if what class you choose does much more than to buff certain stats.</description>
     </item>
@@ -374,18 +371,6 @@ RTS SRPG/Tactical Action RPG MOBA Building/Community Sim AutoBattler/Autochess S
 overworld rts like ogre battle (see also dragon age map) see also rimworld map
 combat mode star ocean dragon age mobas Auto Battlers
 Base Building should be able to access all menus from the map. No need to go into deeper detail. Each town has slots for industries and will bring you resources etc. Shops and blacksmiths have levels, you can pay/invest in them as upgrade tiers.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://michaelbrave.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://michaelbrave.github.io/about/</guid>
-      <description>I&amp;rsquo;m what happens when an artist becomes a designer and later a developer.
-My lifelong mission (other than finding the perfect lemonaide) is to use technology to make art better, cheaper and faster. Hence my interest in Neural Networks, it&amp;rsquo;s why I love things like procedural generation, and It&amp;rsquo;s why I get excited about game engines being used in ways outside of making games.
-Other things worth mentioning;
- my favorite programming language is Swift (I believe there is something special there) I collect old electronics that have interesting designs or interfaces (like mp3 players) I love to read, and can often be found in old bookstores I travel as often as I can, my favorite trip so far being the Camino de Santiago My primary non creative hobby is finding and knowing about lesser known restaurants I&amp;rsquo;m terrible at keeping in touch with everyone, even my favorite people, appologies in advance  You can reach me at twitter or linkedin or github.</description>
     </item>
     
     <item>
@@ -445,20 +430,6 @@ Star Ocean: The Second Story</description>
 Final Fantasy Realm Reborn
 Warcraft 3 Reforged
 Star Wars Battlefront 2</description>
-    </item>
-    
-    <item>
-      <title>What Am I Doing Now?</title>
-      <link>https://michaelbrave.github.io/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://michaelbrave.github.io/now/</guid>
-      <description>June 2020
-Learning:
-I&amp;rsquo;m learning how to make a game using Unreal Engine 4. I&amp;rsquo;m making something that&amp;rsquo;s a spiritual successor to Ogre Battle: March of the Black Queen for SNES, but with RTS elements and a customizable AI Gambit System (like Final Fantasy 12 or Dragon Age).
-I&amp;rsquo;ve also started working through Harvard CS50 again as I never finished it and would like to.
-Reading:
-I&amp;rsquo;m reading &amp;ldquo;Procedural Storytelling in Game Design&amp;rdquo; by Tanya X.</description>
     </item>
     
   </channel>

@@ -6,17 +6,14 @@
     <description>Recent content in SRPG on Mike Brave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://michaelbrave.github.io/tags/srpg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelbrave.github.io/tags/srpg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ogre Battle - Game Mechanics Study</title>
-      <link>https://michaelbrave.github.io/post/ogre-battle/</link>
+      <link>https://michaelbrave.github.io/blog/ogre-battle/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelbrave.github.io/post/ogre-battle/</guid>
+      <guid>https://michaelbrave.github.io/blog/ogre-battle/</guid>
       <description>I want to explore the mechanics of Ogre Battle because I want to clone a lot of it&amp;rsquo;s features into a game I&amp;rsquo;m working on. Not a direct clone but heavily inspired by it to the point of almost using it as a template.
 Ogre Battle Released on the SNES in 1993 and later for the PSX in 1997, this game named after not one but two Queen songs is one of my favorite games.</description>
     </item>

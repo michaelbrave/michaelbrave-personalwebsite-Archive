@@ -6,17 +6,14 @@
     <description>Recent content in Ultima on Mike Brave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://michaelbrave.github.io/tags/ultima/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelbrave.github.io/tags/ultima/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ultima 1 - Game Mechanics Study</title>
-      <link>https://michaelbrave.github.io/post/ultima-1/</link>
+      <link>https://michaelbrave.github.io/blog/ultima-1/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelbrave.github.io/post/ultima-1/</guid>
+      <guid>https://michaelbrave.github.io/blog/ultima-1/</guid>
       <description>One of the most classic computer RPGs made in 1981, I hope to learn a lot as I study the mechanics of this series. Most of this is from watching let&amp;rsquo;s play videos and reading up on the game mostly due to my own frustrations with the UI.
 Stats core to the character is it&amp;rsquo;s class and it&amp;rsquo;s stats. I&amp;rsquo;m not even sure if what class you choose does much more than to buff certain stats.</description>
     </item>

@@ -1,381 +1,223 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://michaelbrave.github.io/tags/best/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/drafts/notes/best/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/drafts/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://michaelbrave.github.io/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://michaelbrave.github.io/tags/best/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michaelbrave.github.io/drafts/notes/best/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://michaelbrave.github.io/drafts/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/tradeoffs/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/big-picture-thinking/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/seeing-what-is-true/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/done/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/micro-posts/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/productivity/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/writing/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/awe-wonder-surprises/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/happiness/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/hapiness-theory/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/happier-direction/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/practical-is-seeing/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/changing-moralities/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/difficult-truths/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/happier-life-techniques/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/how-people-are/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/ideas/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/ideas-that-changed-my-life/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/knowledge/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/life/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/living-interesting/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/magic-all-around-us/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/nothing-exists-in-a-vacuum/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/pain-vs-happiness/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/tragedy-loss-hope/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/notes/truly-living/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/doing/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/note/do-it-poorly/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/note/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/perfectionism/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/quality/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/entrepreneurship/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/nike/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/phil-knight/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/review/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/review/shoe-dog/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/auto-battler/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/auto-chess/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/auto-chess/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://michaelbrave.github.io/blog/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://michaelbrave.github.io/note/build-in-the-open/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/documentary/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/flaws/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/game-mechanics/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/ghibli/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/king-of-dragon-pass/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/king-of-dragon-pass/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/miyazaki/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/ogre-battle/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/post/ogre-battle/</loc>
+  </url><url>
+    <loc>https://michaelbrave.github.io/blog/ogre-battle/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/ogre-battle-64/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/open/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/post/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/rpg/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/rts/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/srpg/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/tactics-ogre/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/tactics-ogre/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/review/making-of-ponyo/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/trpg/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/ultima/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/post/ultima-1/</loc>
+  </url><url>
+    <loc>https://michaelbrave.github.io/blog/ultima-1/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/vulnerable/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/tags/work/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/cultivating-agency/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/prophets-song-gamedoc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/books-to-read/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/community-collab/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/gamelist/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://michaelbrave.github.io/drafts/game-branding/</loc>
   </url>
-  
-  <url>
-    <loc>https://michaelbrave.github.io/now/</loc>
-  </url>
-  
 </urlset>
